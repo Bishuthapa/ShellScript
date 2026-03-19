@@ -6,5 +6,4 @@ echo "tomorrow is : \$holiday"
 echo "hello ${person}"
 ./first.sh
 FILES=`ls`
-
-
+echo "files are: $FILES"
